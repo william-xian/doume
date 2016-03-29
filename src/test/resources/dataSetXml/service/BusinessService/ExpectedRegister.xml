@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/2002/xmlspec/dtd/2.10/xmlspec.dtd">
+
+
+<dataset>
+    <User openId="fanli" userName="fanli" password="e10adc3949ba59abbe56e057f20f883e" userType="2" locked="2"/>
+    <Business bName="fish" bType="1" locked="0" capacity="100" used="50" ppm="30" balance="30"
+		information="sell fish" phoneno="12345678901" weight="0"/>
+    <BHomePage mediaId="home" />
+    <Location lng="0.0" lat="0.0" />
+</dataset>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/2002/xmlspec/dtd/2.10/xmlspec.dtd">
+<ehcache>
+    <diskStore path="java.io.tmpdir"></diskStore>
+    <defaultCache maxElementsInMemory="10000" eternal="false" overflowToDisk="false"
+        timeToldleSeconds="0" timeToLineSeconds="0"
+        diskPersistent="false" diskExpiryThreadIntervalSeconds="120"></defaultCache>
+    <cache name="fixedRegion" maxElementsInMemory="100" eternal="true" overflowToDisk="false"/>
+    <cache name="freqChangeRegion" maxElementsInMemory="5000" eternal="false"
+        overflowToDisk="true" timeToldleSeconds="300" timeToLiveSeconds="1800"/>
+</ehcache>

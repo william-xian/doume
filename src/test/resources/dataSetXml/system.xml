@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/2002/xmlspec/dtd/2.10/xmlspec.dtd">
+<DataSet>
+    <User userId="0" openId="doume" userName="doume" password="123456" userType="1" locked="0" lastVisit="2014-12-17 17:14:59" lastIp="123.123.123.1" />
+	<Product productId="0" name="VIRTUAL_GOODS" sellerId="0" productType="0" locked="0" description="System" mediaId="product-empty.jpg" price="1" creditPrice="1" retCredit="1" />    
+</DataSet>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/2002/xmlspec/dtd/2.10/xmlspec.dtd">
+
+
+<dataset>
+	<Deal DTYPE="FailedDeal" productId="6000" sellerId="8000" buyerId="9000" dealMsg="dealMsg"/>
+
+</dataset>

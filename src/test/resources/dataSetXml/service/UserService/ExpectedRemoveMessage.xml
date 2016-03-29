@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/2002/xmlspec/dtd/2.10/xmlspec.dtd">
+
+
+<dataset>
+    <Message msgId="1" senderId="9000" receiverId="8000" msgType="130" content="content1"/>
+    <Message msgId="2" senderId="9000" receiverId="8000" msgType="258" content="content2"/>
+</dataset>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/2002/xmlspec/dtd/2.10/xmlspec.dtd">
+
+<dataset>
+    <User userName="admin" password="e10adc3949ba59abbe56e057f20f883e" userType="1" locked="2"/>
+    <User userName="business" password="e10adc3949ba59abbe56e057f20f883e" userType="2" locked="2"/>
+    <User userName="customer" password="e10adc3949ba59abbe56e057f20f883e" userType="4" locked="2"/>
+    <!-- 
+    <Administrator />
+    <Business />
+    <Customer />
+     -->
+</dataset>
